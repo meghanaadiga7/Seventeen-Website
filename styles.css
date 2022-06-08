@@ -1,0 +1,103 @@
+body {
+  background-color: #f6e6cb;
+}
+
+#Info {
+  background-color: #a0937d;
+}
+
+h2 {
+  font-family: "Cinzel", serif;
+  font-size: 3rem;
+  margin: 10% 5% 2%;
+  text-align: left;
+}
+
+h3 {
+  font-family: "Cinzel", serif;
+  font-size: 2rem;
+  margin: 10% 5% 1%;
+  text-align: center;
+  padding: 1rem;
+  color: #000;
+}
+
+h4 {
+  margin: 2% 5%;
+  font-family: "IM Fell Double Pica", serif;
+  font-size: 1.8rem;
+  text-align: center;
+  color: #000;
+}
+
+.row {
+  margin: 0;
+}
+
+.para {
+  margin: 3% 5%;
+  font-family: "IM Fell Double Pica", serif;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+.imgsize {
+  width: 90%;
+  margin: 10% 4% 3% 3%;
+  border-radius: 5%;
+}
+
+/*Navbar*/
+.navbar {
+  background-color: #a0937d;
+  padding: 1.3rem;
+}
+
+.navbar-brand,
+.nav-link {
+  font-family: "Cinzel", serif;
+  font-weight: bold;
+  color: #e3cdc1;
+  font-size: 1.2rem;
+  margin: 1rem;
+}
+
+/*Icons*/
+.fa-brands {
+  width: 100%;
+  padding: 1rem;
+}
+
+.fa-facebook {
+  text-align: center;
+  color: #3b579d;
+}
+
+.fa-twitter {
+  text-align: center;
+  color: #00aced;
+}
+
+.fa-youtube {
+  text-align: center;
+  color: red;
+}
+
+.fa-instagram {
+  text-align: center;
+  color: purple;
+}
+
+/*Youtube-links*/
+.youtube-links {
+  font-family: "IM Fell Double Pica", serif;
+  font-size: 1.3rem;
+  color: #e3cdc1;
+  text-align: center;
+  display: block;
+  padding: 0.8rem;
+  text-decoration-line: none;
+}
+
+a:hover {
+  color: #000;
+}
