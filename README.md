@@ -1,7 +1,9 @@
 # Static Seventeen Website
 
+
 # Description
 This is a static website on K-pop group Seventeen. HTML,Bootstrap,CSS and JavaScript were used to build this.
+
 
 # Screenshots
 # 1
